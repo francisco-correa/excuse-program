@@ -1,0 +1,11 @@
+h2 {
+    color: lightskyblue;
+    text-align: center;
+}
+
+#excuse {
+    padding-left: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: lightcoral;
+}
