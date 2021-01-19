@@ -2,7 +2,7 @@
 
 A program that generates random excuses 
 
-## Toolings
+## Languages
 * HTML
 * CSS
 * JS
