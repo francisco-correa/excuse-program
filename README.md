@@ -6,3 +6,6 @@ A program that generates random excuses
 * HTML
 * CSS
 * JS
+
+
+![random-excuse](https://i.imgur.com/pbeCHnx.gif)
